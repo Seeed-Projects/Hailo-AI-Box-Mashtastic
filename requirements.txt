@@ -1,0 +1,8 @@
+bytetracker
+supervision==0.25.1
+Cython
+loguru
+tqdm
+requests
+opencv-python
+mashtastic

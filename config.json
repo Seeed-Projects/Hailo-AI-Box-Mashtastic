@@ -1,0 +1,7 @@
+{
+    "net": "yolov5m_wo_spp.hef",
+    "input_video": "rtsp://admin:12345678a@10.0.0.108:554/cam/realmonitor?channel=1&subtype=0",
+    "labels": "coco.txt",
+    "score_thresh": 0.5,
+    "point_of_line": [[640, 0], [640, 1280]]
+  }
