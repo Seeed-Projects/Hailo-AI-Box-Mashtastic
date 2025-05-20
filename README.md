@@ -27,6 +27,7 @@ This repo uses an AI Box to capture RTSP streams from IP cameras and tracks peop
 git clone https://github.com/Seeed-Projects/Hailo-AI-Box-Mashtastic.git
 cd Hailo-AI-Box-Mashtatic
 python -m venv .env --system-site-packages
+source .env/bin/activate
 pip install -r requirements.txt
 python inference.py
 ```
